@@ -78,7 +78,7 @@ $(function(){
 	//资源预加载
 	var preload={},
 		$loading=$(".loading-mask"),
-		path=ISPRO ? "dist" : "src";
+		path="src";
 
 	//图片集合
 	preload.imgs=[
